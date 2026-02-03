@@ -29,15 +29,25 @@ This project solves these problems by using vector embeddings and semantic simil
 
 semantic-search-endee/
 ├── data/
+
 │   └── documents.txt
+
 ├── src/
+
 │   ├── embedder.py
+
 │   ├── endee_store.py
+
 │   └── search_engine.py
+
 ├── app.py
+
 ├── test_embedder.py
+
 ├── requirements.txt
+
 └── README.md
+
 
 **How Endee is Used**
 
@@ -87,11 +97,13 @@ Enter your query (type 'exit' to quit): **machine learning**
 Machine learning is a subset of artificial intelligence that learns from data. (score: 0.6111)
 Deep learning is a specialized form of machine learning using neural networks. (score: 0.4407)
 Python is widely used for machine learning and data science applications. (score: 0.3660)
+
 Enter your query (type 'exit' to quit): **what is deep learning**
 **Top Results:**
 Deep learning is a specialized form of machine learning using neural networks. (score: 0.8338)
 Machine learning is a subset of artificial intelligence that learns from data. (score: 0.4948)
 Python is widely used for machine learning and data science applications. (score: 0.3119)
+
 Enter your query (type 'exit' to quit): **artificial intelligence**
 **Top Results:**
 Artificial intelligence enables machines to mimic human intelligence. (score: 0.6228)
