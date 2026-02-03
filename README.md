@@ -28,6 +28,7 @@ This project solves these problems by using vector embeddings and semantic simil
 **Project Structure**
 
 semantic-search-endee/
+
 ├── data/
 
 │   └── documents.txt
@@ -91,7 +92,9 @@ Enter your query (type 'exit' to quit):
 machine learning
 
 The system will return semantically ranked results based on meaning.
+
 **sample testcases**  
+
 Enter your query (type 'exit' to quit): **machine learning**
 **Top Results:**
 Machine learning is a subset of artificial intelligence that learns from data. (score: 0.6111)
