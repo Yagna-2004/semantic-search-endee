@@ -96,18 +96,21 @@ The system will return semantically ranked results based on meaning.
 **sample testcases**  
 
 Enter your query (type 'exit' to quit): **machine learning**
+
 **Top Results:**
 Machine learning is a subset of artificial intelligence that learns from data. (score: 0.6111)
 Deep learning is a specialized form of machine learning using neural networks. (score: 0.4407)
 Python is widely used for machine learning and data science applications. (score: 0.3660)
 
 Enter your query (type 'exit' to quit): **what is deep learning**
+
 **Top Results:**
 Deep learning is a specialized form of machine learning using neural networks. (score: 0.8338)
 Machine learning is a subset of artificial intelligence that learns from data. (score: 0.4948)
 Python is widely used for machine learning and data science applications. (score: 0.3119)
 
 Enter your query (type 'exit' to quit): **artificial intelligence**
+
 **Top Results:**
 Artificial intelligence enables machines to mimic human intelligence. (score: 0.6228)
 Machine learning is a subset of artificial intelligence that learns from data. (score: 0.5579)
