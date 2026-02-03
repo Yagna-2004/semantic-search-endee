@@ -1,0 +1,7 @@
+Machine learning is a subset of artificial intelligence that learns from data.
+Deep learning is a specialized form of machine learning using neural networks.
+Artificial intelligence enables machines to mimic human intelligence.
+Python is widely used for machine learning and data science applications.
+Vector databases store embeddings for efficient similarity search.
+Endee is a vector database designed for semantic search systems.
+Semantic search retrieves information based on meaning, not keywords.
